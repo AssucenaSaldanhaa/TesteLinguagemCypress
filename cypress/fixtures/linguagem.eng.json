@@ -1,0 +1,15 @@
+{
+    "titles": {
+        "slogan": "Connect with friends and the world around you on Facebook.",
+        "forgotPassword": "Forgot password?",
+        "createPage": "Create a Page for a celebrity, brand or business."
+    },
+    "buttons": {
+        "login": "Log In",
+        "createNewAccount": "Create new account"
+    },
+    "inputs": {
+        "email": "Email or phone number",
+        "password": "Password"
+    }
+}

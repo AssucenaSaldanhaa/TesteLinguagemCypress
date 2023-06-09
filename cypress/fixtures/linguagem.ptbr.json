@@ -1,0 +1,15 @@
+{
+    "titles": {
+        "slogan": "O Facebook ajuda você a se conectar e compartilhar com as pessoas que fazem parte da sua vida.",
+        "forgotPassword": "Esqueceu a senha?",
+        "createPage": "Criar uma Página para uma celebridade, uma marca ou uma empresa."
+    },
+    "buttons": {
+        "login": "Entrar",
+        "createNewAccount": "Criar nova conta"
+    },
+    "inputs": {
+        "email": "Email ou telefone",
+        "password": "Senha"
+    }
+}
